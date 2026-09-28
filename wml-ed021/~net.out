@@ -1,0 +1,50 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Radmin VPN:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fdfd::1a4a:ce5
+   Link-local IPv6 Address . . . . . : fe80::957e:adcc:b7b:2f93%9
+   IPv4 Address. . . . . . . . . . . : 26.74.12.229
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : lan
+
+Wireless LAN adapter Liga‡Æo de µrea Local* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Liga‡Æo de µrea Local* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2001:8a0:f36c:9200:1cae:6718:8cab:dea7
+   Temporary IPv6 Address. . . . . . : 2001:8a0:f36c:9200:4905:d870:60f4:2eb
+   Link-local IPv6 Address . . . . . : fe80::b2cf:2469:a04:8dd4%4
+   IPv4 Address. . . . . . . . . . . : 192.168.1.115
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::da78:7fff:fe9a:d09f%4
+                                       192.168.1.254
+
+Ethernet adapter Liga‡Æo de Rede Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2001:0:4625:9800:1cb1:2f89:43ac:6328
+   Link-local IPv6 Address . . . . . : fe80::1cb1:2f89:43ac:6328%13
+   Default Gateway . . . . . . . . . : 

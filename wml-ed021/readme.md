@@ -1,0 +1,1 @@
+Versão: GS8 WML 2026
